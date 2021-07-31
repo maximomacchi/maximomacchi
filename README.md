@@ -1,6 +1,6 @@
 ## Who Am I? 👨🏼‍💻
 
-#### Hi! My name is Max and I live in Los Angeles. I am a Software Engineer at Albert building web applications to help people achieve financail wellness. As well, I am a freelance web developer working with small businesses to make their lives easier and help their business grow. 
+#### Hi! My name is Max and I live in Los Angeles. I am a Software Engineer at Albert building web applications to help people achieve financail wellness. 
 
 ## Recent Projects 🔧
 - CSV Parser
@@ -10,7 +10,9 @@
 
 ## My tech toolbox 🧰
 - JavaScript
+- TypeScript
 - React
+- Redux
 - AngularJS
 - HTML 5
 - CSS 3
