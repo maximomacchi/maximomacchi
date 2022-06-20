@@ -1,6 +1,6 @@
 ## Who Am I? 👨🏼‍💻
 
-#### Hi! My name is Max and I live in Chicago. I am a Software Engineer at Albert building web applications to help make financial wellness and literacy more accessible. 
+#### Hi! My name is Max and I live in Chicago. I am a Software Engineer specializing on the front-end side of the stack. My current focus is building responsive, scalable, and secure React-based web apps.
 
 ## Recent Projects 🔧
 - CSV Parser
